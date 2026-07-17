@@ -12,7 +12,7 @@ Fitur program:
 Cara menjalankan program:
 1. Install Dart SDK.
 2. Clone repository GitHub.
-   - git clone https://github.com/username/project_uas.git
+   - git clone [https://github.com/username/project_uas.git](https://github.com/fandimbella/Sistem_Toko)
 3. Masuk ke folder project.
    - cd project_uas
 4. Jalankan program.
